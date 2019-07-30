@@ -56,7 +56,7 @@ body {
     cursor: pointer;
 }
 .yellowColor {
-    color:var(--yellow-color);
+    color:var(--yellow-color)!important;
 }
 .mildDarkColor {
     color:var(--mild-dark-color);
