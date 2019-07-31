@@ -387,6 +387,11 @@ footer a {
 }
 .userProfile-subcontent-container {
     overflow: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+    align-items: center;
+    justify-content: center;
 }
 .userProfile-subcontent-container h1 {
     color: white;
@@ -398,8 +403,6 @@ footer a {
     margin-bottom: 10px;
 }
 .userProfile-subcontent-post-item {
-    width: 33.3333%;
-    float: left;
     position: relative;
     padding-left: 15px;
     padding-right: 15px;
