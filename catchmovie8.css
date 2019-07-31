@@ -737,13 +737,18 @@ footer a {
     -webkit-box-orient: vertical;
 }
 .movieInfo-subcontent-post-item-container {
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-    background: rgba(255, 255, 255, 0.1);
     color: white;
     margin-bottom: 10px;
     padding: 10px;
     border: 1px solid rgba(0,0,0,.09);
     border-radius: 15px;
+    background-color: var(--dark-color);
+    box-shadow: 0px 2px 4px 0px #000;
+}
+.movieInfo-subcontent-post-item-container:hover {
+    cursor: pointer;
+    transition:0.7s;
+    border:1px solid var(--yellow-color);
 }
 .movieInfo-subcontent-post-item-header {
     display: flex;
