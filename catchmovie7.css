@@ -732,6 +732,7 @@ footer a {
     word-break: break-all;
     white-space: pre-line;
     display: -webkit-box;
+    overflow: hidden;
     -webkit-line-clamp: 5;
     -webkit-box-orient: vertical;
 }
