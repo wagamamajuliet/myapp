@@ -93,7 +93,7 @@ body {
     background: #e74c3c;
 }
 .borderYellow {
-    border:1px solid var(--yellow-color);
+    border:1px solid var(--yellow-color)!important;
 }
 
 .movie-normal-btn {
