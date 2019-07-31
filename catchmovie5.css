@@ -19,6 +19,7 @@ body {
     --yellow-color: #f8ce0b;
     --mainPage-width: 1100px;
     --btn-color :#999;
+    --mild-dark-text-color :#999;
     --mild-dark-color: #999;
     --transition-time: 0.7s;
 }
@@ -60,6 +61,9 @@ body {
 }
 .mildDarkColor {
     color:var(--mild-dark-color);
+}
+.textMildDarkColor {
+    color:var(--mild-dark-text-color);
 }
 .flex-column {
     display: flex;
