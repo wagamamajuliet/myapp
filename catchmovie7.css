@@ -716,8 +716,8 @@ footer a {
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
-    width: 160px;
     white-space: pre-line;
+    word-break: break-all;
 }
 .movieInfo-subcontent-post-item {
     position: relative;
