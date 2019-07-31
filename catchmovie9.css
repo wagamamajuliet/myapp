@@ -92,6 +92,9 @@ body {
 .btn-no {
     background: #e74c3c;
 }
+.borderYellow {
+    border:1px solid var(--yellow-color);
+}
 
 .movie-normal-btn {
     padding: 0.5rem;
