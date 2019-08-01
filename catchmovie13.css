@@ -1161,7 +1161,7 @@ footer a {
     border: 0;
     border-radius: 2px;
     font-weight: 500;
-    background-color:  var(--mild-dark-text-color);
+    background-color: var(--dark-color);
     color: #fff;
     text-decoration: none;
     cursor: pointer;
