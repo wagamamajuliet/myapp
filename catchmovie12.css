@@ -1161,7 +1161,7 @@ footer a {
     border: 0;
     border-radius: 2px;
     font-weight: 500;
-    background-color: #f96816;
+    background-color:  var(--mild-dark-text-color);
     color: #fff;
     text-decoration: none;
     cursor: pointer;
@@ -1492,6 +1492,7 @@ footer a {
     border-radius: 2px;
     font-weight: 500;
     text-decoration: none;
+    color:var(--mild-dark-text-color);
     cursor: pointer;
     text-align: center;
     transition: all 0.5s;
