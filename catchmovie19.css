@@ -619,6 +619,7 @@ footer a {
 .movieInfo-card {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .movieInfo-card-synobsis {
