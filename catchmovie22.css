@@ -608,6 +608,7 @@ footer a {
     width: 70%;
     overflow: auto;
     padding: 1rem;
+    margin: 0 10rem;
     margin-bottom: 10px;
     border: 1px solid rgba(0,0,0,.09);
     border-radius: 15px;
