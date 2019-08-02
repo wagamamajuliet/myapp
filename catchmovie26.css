@@ -279,9 +279,10 @@ footer {
 }
 footer p {
     font-size: 0.9rem;
-    padding-top: 0.5rem;
+    padding-top: 0.25rem;
 }
 footer a {
+    padding-top: 0.25rem;
     color:white;
     text-decoration: none;
 }
