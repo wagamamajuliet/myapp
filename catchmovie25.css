@@ -27,8 +27,7 @@ body {
     position: relative;
     z-index: 2;
     max-width: 1100px;
-    margin: 0 auto;
-    padding: 0 10rem;
+    margin: auto;
 }
 .mainPage {
     position: relative;
@@ -318,13 +317,6 @@ footer a {
     top: 50%;
     right: 0;
     transform: translate(-20%, -50%);
-}
-.mainPage-container {
-    position: relative;
-    z-index: 2;
-    //width: 1100px;
-    margin: 0 auto;
-    padding: 0 10rem;
 }
 
 .movie-normal-btn {
