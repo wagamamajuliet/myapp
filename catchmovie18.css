@@ -28,6 +28,7 @@ body {
     z-index: 2;
     //width: 1100px;
     margin: 0 auto;
+    padding: 0 10rem;
 }
 .mainPage {
     position: relative;
@@ -323,6 +324,7 @@ footer a {
     z-index: 2;
     //width: 1100px;
     margin: 0 auto;
+    padding: 0 10rem;
 }
 
 .movie-normal-btn {
